@@ -1,0 +1,13 @@
+{
+	"plugins": {
+		"metalsmith-sitemap": {
+			"hostname": "https://managers.astige.com"
+		},
+		"metalsmith-robots": {
+			"useragent": "*",
+			"disallow": "",
+			"allow": [],
+			"sitemap": "https://managers.astige.com/sitemap.xml"
+		}
+	}
+}
