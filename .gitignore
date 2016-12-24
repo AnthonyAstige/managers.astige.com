@@ -1,0 +1,3 @@
+*.swp
+build
+.format_failed.json
